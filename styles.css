@@ -364,7 +364,7 @@ a { color: inherit; text-decoration: none; }
 
 /* Reveal animations */
 .reveal {
-  opacity: 0;
+  opacity: 1;
   transform: translateY(28px);
   transition: opacity 0.65s ease, transform 0.65s ease;
 }
